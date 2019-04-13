@@ -15,7 +15,7 @@ import java.util.Vector;
  * </p>
  * @author Xu Jiao
  * @version 1.0  2019-04-13
- * @since JDK 1.5
+ * @since JDK 1.8
  */
 public class MyStringStack {
     private Vector<String> v = new Vector<String> ();
