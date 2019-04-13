@@ -13,8 +13,8 @@ import java.util.Vector;
  *      <code>isEmpty()</code> to verify whether the stack has no more elements
  *      <code>clear()</code> to empty the stack.
  * </p>
- * @author Swarnalatha Ashok
- * @version 1.0  2008-07-16
+ * @author Xu Jiao
+ * @version 1.0  2019-04-13
  * @since JDK 1.5
  */
 public class MyStringStack {
